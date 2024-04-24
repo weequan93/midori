@@ -9,13 +9,13 @@ sites:
     url: https://app.marquee.fi/api/client/insurance/market?coin_name=&sort_by=2
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  # - name: Test Broken Site
+  #   url: https://thissitedoesnotexist.koj.co
+  # - name: IPv6 test
+  #   url: forwardemail.net
+  #   port: 80
+  #   check: "tcp-ping"
+  #   ipv6: true
 assignees:
   - weequan93
 
