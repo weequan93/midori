@@ -5,13 +5,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/testgmxapi.weequan.cyou.ico",
     "slug": "deriw-bridge-dev",
     "status": "up",
-    "uptime": "83.02%",
-    "uptimeDay": "68.63%",
-    "uptimeWeek": "83.02%",
-    "uptimeMonth": "83.02%",
-    "uptimeYear": "83.02%",
+    "uptime": "86.96%",
+    "uptimeDay": "70.44%",
+    "uptimeWeek": "86.96%",
+    "uptimeMonth": "86.96%",
+    "uptimeYear": "86.96%",
     "time": 1531,
-    "timeDay": 1529,
+    "timeDay": 1519,
     "timeWeek": 1531,
     "timeMonth": 1531,
     "timeYear": 1531,
@@ -43,7 +43,7 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -54,6 +54,8 @@
     "timeWeek": 350,
     "timeMonth": 350,
     "timeYear": 350,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-26": 0
+    }
   }
 ]
