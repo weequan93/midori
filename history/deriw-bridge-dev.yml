@@ -1,7 +1,7 @@
 url: https://testgmxapi.weequan.cyou/deriwbridge/coins/1115511
-status: up
-code: 200
-responseTime: 1096
-lastUpdated: 2024-05-09T10:15:37.785Z
+status: down
+code: 502
+responseTime: 1364
+lastUpdated: 2024-05-09T10:59:21.411Z
 startTime: 2024-04-24T09:21:47.859Z
 generator: Upptime <https://github.com/upptime/upptime>
