@@ -1,7 +1,7 @@
 url: https://app.marquee.fi/api/client/insurance/market?coin_name=&sort_by=2
-status: down
-code: 500
-responseTime: 2388
-lastUpdated: 2024-09-22T21:42:52.482Z
+status: up
+code: 200
+responseTime: 1674
+lastUpdated: 2024-09-22T21:55:32.651Z
 startTime: 2024-04-24T09:10:15.968Z
 generator: Upptime <https://github.com/upptime/upptime>
