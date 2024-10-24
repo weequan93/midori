@@ -3,8 +3,14 @@ owner: weequan93 # Your GitHub organization or username, where this repository l
 repo: midori # The name of this repository
 
 sites:
-  - name: Deriw Bridge Dev
-    url: 	https://testgmxapi.weequan.cyou/deriwbridge/coins/1115511
+  - name: Deriw Trade
+    url: 	https://www.deriw.com/trade/WBTC-USDT
+  - name: Deriw RPC
+    url: 	https://rpc.test.deriw.com
+  - name: Deriw Explorer
+    url: 	https://explorer.test.deriw.com
+  - name: Deriw Price
+    url: 	https://api.test.deriw.com/client/candles?symbol=WBTC&preferable_chain_id=97&period=5m&from=1729737900&limit=1&type=2
   - name: Marquee Prod
     url: https://app.marquee.fi/api/client/insurance/market?coin_name=&sort_by=2
   - name: Hacker News
