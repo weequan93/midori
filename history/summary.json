@@ -40,19 +40,19 @@
     "url": "https://explorer.test.deriw.com",
     "icon": "https://icons.duckduckgo.com/ip3/explorer.test.deriw.com.ico",
     "slug": "deriw-explorer",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1713,
-    "timeDay": 2233,
-    "timeWeek": 1843,
-    "timeMonth": 1713,
-    "timeYear": 1713,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 1724,
+    "timeDay": 2122,
+    "timeWeek": 1849,
+    "timeMonth": 1724,
+    "timeYear": 1724,
     "dailyMinutesDown": {
-      "2024-11-06": 0
+      "2024-11-06": 18
     }
   },
   {
