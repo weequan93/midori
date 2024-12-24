@@ -1,7 +1,7 @@
 url: https://rpc.test.deriw.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-12-24T21:27:41.688Z
+status: up
+code: 200
+responseTime: 1394
+lastUpdated: 2024-12-24T21:40:43.513Z
 startTime: 2024-10-24T02:50:00.325Z
 generator: Upptime <https://github.com/upptime/upptime>
