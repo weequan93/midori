@@ -25,9 +25,9 @@
     "url": "https://rpc.test.deriw.com",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.test.deriw.com.ico",
     "slug": "deriw-rpc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "93.33%",
+    "uptimeDay": "93.32%",
     "uptimeWeek": "98.60%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.84%",
@@ -37,6 +37,7 @@
     "timeMonth": 966,
     "timeYear": 978,
     "dailyMinutesDown": {
+      "2024-12-26": 0,
       "2024-12-25": 96,
       "2024-12-24": 45
     }
@@ -70,9 +71,9 @@
     "url": "https://api.test.deriw.com/client/candles?symbol=WBTC&preferable_chain_id=97&period=5m&from=1729737900&limit=1&type=2",
     "icon": "https://icons.duckduckgo.com/ip3/api.test.deriw.com.ico",
     "slug": "deriw-price",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "93.35%",
+    "uptimeDay": "93.34%",
     "uptimeWeek": "98.60%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.80%",
@@ -82,6 +83,7 @@
     "timeMonth": 1177,
     "timeYear": 1227,
     "dailyMinutesDown": {
+      "2024-12-26": 0,
       "2024-12-25": 96,
       "2024-12-24": 45,
       "2024-12-12": 40
