@@ -1,7 +1,7 @@
 url: https://explorer.test.deriw.com
-status: down
-code: 500
-responseTime: 1316
-lastUpdated: 2024-12-27T16:21:09.897Z
+status: up
+code: 200
+responseTime: 1256
+lastUpdated: 2024-12-27T16:40:17.758Z
 startTime: 2024-10-24T02:50:01.919Z
 generator: Upptime <https://github.com/upptime/upptime>
