@@ -1,7 +1,7 @@
 url: https://api.test.deriw.com/client/candles?symbol=WBTC&preferable_chain_id=97&period=5m&from=1729737900&limit=1&type=2
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-12-27T18:58:52.638Z
+status: up
+code: 200
+responseTime: 1087
+lastUpdated: 2024-12-27T19:18:02.488Z
 startTime: 2024-10-24T02:50:03.840Z
 generator: Upptime <https://github.com/upptime/upptime>
